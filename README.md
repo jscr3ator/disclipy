@@ -20,7 +20,7 @@ click [here](https://github.com/jscr3ator/disclipy/releases/tag/early_release) o
 1. Clone the repo
 
 ```
-git clone https://github.com/yourusername/disclipy.git
+git clone https://github.com/jscr3ator/disclipy.git
 cd disclipy
 ```
 
