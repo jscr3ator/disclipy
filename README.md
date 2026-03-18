@@ -1,6 +1,6 @@
 # disclipy
 
-share your precious clips to discord faster than ever
+share your precious clips to discord faster than ever,
 inspo from @vivaancode, made one for obs
 ## Features
 
