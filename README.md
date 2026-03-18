@@ -46,3 +46,9 @@ python main.py
   * Manual (uses keybind, default F8)
 
 Settings are saved in `settings.json`.
+
+## Screenshots
+
+| Interface                                                                                                  | Discord Output                                                                                             |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/user-attachments/assets/6dc8dcae-13a8-4bc5-b061-87ba9d56f59b" width="100%" /> | <img src="https://github.com/user-attachments/assets/b8e388c7-4a09-4c66-aca6-0d0cddfd820d" width="100%" /> |
